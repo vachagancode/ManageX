@@ -5,8 +5,6 @@ Task List: Display a list of tasks with their details (title, description, due d
 
 Add Task: Allow users to add new tasks with relevant details.
 
-Edit Task: Provide the ability to edit existing tasks.
-
 Delete Task: Allow users to delete tasks they no longer need.
 
 Task Status: Add a feature to mark tasks as completed or pending.
